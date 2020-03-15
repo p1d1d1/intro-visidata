@@ -1,5 +1,0 @@
-visidata
-sphinx
-sphinx_rtd_theme
-termrunner
-ansi2html
