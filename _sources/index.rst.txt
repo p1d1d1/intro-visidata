@@ -2,6 +2,10 @@
 Un'introduzione a VisiData
 ===========================
 
+.. note::
+
+    Questa è la traduzione in italiano di "An Introduction to VisiData" di `Jeremy Singer-Vine <https://www.jsvine.com/>`_. La traduzione è di `Pasquale Di Donato <https://github.com/p1d1d1>`_.
+
 `VisiData <http://visidata.org/>`_ è uno strumento open source che consente di **aprire, esplorare, riassumere ed analizzare** velocemente dati con il **terminale**. VisiData funziona con file CSV, fogli di calcolo Excel, database SQL e `moltissime altre fonti <basics/opening-files/#compatible-filetypes>`_. L'interfaccia ha l'aspetto seguente:
 
 .. raw:: html
@@ -46,6 +50,7 @@ Ultimo aggiornamento    ``2019-08-15``
 Versione di VisiData    ``1.5.2``
 ======================  ================
 
+
 Informazioni sull'autore
 ------------------------
 
@@ -54,14 +59,31 @@ Informazioni sull'autore
 Feedback / domande / correzioni?
 -----------------------------------
 
-Per fornire un feedback a questa traduzione, `apri un issue <https://github.com/p1d1d1/intro-visidata/issues>`_.
-
-Per quanto riguarda la versione originale in inglese fai riferimento al repository di `Jeremy <https://github.com/jsvine/intro-to-visidata>`_.
+Per fornire un feedback, `apri un issue <https://github.com/jsvine/intro-to-visidata>`_.
 
 Riconoscimenti
 ---------------
 
 Molte grazie alle seguenti persone per il loro feedback, i loro suggerimenti e le loro correzioni: `Saul Pwanson <http://saul.pw/>`_, `Anja Kefala <https://github.com/anjakefala>`_, `John Templon <https://twitter.com/jtemplon>`_, `Scott Pham <https://twitter.com/scottpham>`_, `Andrea Borruso <https://github.com/aborruso>`_.
+
+
+Informazioni sulla traduzione
+-----------------------------
+
+Stato della traduzione
+^^^^^^^^^^^^^^^^^^^^^^
+
+======================  ================
+Ultimo aggiornamento    ``10-03-2020``
+Versione di VisiData    ``1.5.2``
+======================  ================
+
+Informazioni sul traduttore
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La traduzione è di `Pasquale Di Donato <https://github.com/p1d1d1>`_.
+
+Per fornire un feedback alla traduzione, `apri un issue <https://github.com/p1d1d1/intro-visidata/issues>`_.
 
 
 .. toctree::
