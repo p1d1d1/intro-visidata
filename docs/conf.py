@@ -51,7 +51,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Introduzione a VisiData'
-copyright = '2019, Jeremy Singer-Vine'
+copyright = '2019, Jeremy Singer-Vine - Translated by Pasquale Di Donato'
 author = 'Jeremy Singer-Vine'
 translator = 'Pasquale Di Donato'
 
