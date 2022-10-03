@@ -39,7 +39,7 @@
                 "sha256:af92e6106cb7c55286b25b38ad7695f8b4efb36a90ba483d7f7a6628c46158ab",
                 "sha256:e86135ae101e31e2c8ec20a4e0c5220f4eed12487d5cf3f78be7e98d3a57fc28"
             ],
-            "version": "==2.7.0"
+            "version": "==2.9.1"
         },
         "certifi": {
             "hashes": [
@@ -82,7 +82,7 @@
                 "sha256:74320bb91f31270f9551d46522e33af46a80c3d619f4a4bf42b3164d30b5911f",
                 "sha256:9fe95f19286cfefaa917656583d020be14e7859c6b0252588391e47db34527de"
             ],
-            "version": "==2.10.3"
+            "version": "==2.11.3"
         },
         "libtmux": {
             "hashes": [
@@ -135,7 +135,7 @@
                 "sha256:71e430bc85c88a430f000ac1d9b331d2407f681d6f6aec95e8bcfbc3df5b0127",
                 "sha256:881c4c157e45f30af185c1ffe8d549d48ac9127433f2c380c24b84572ad66297"
             ],
-            "version": "==2.4.2"
+            "version": "==2.7.4"
         },
         "pyparsing": {
             "hashes": [
